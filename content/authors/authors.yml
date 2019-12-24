@@ -1,17 +1,12 @@
-- name: Dennis Brotzky
+- name: Carlos E Ortega
   bio: |
-    Written by You. This is where your author bio lives. Share your work, your
-    joys and of course, your Twitter handle.
+    Undergraduate student with a passion for Chaotic Neutral Data Science.
   avatar: ./avatars/dennis-brotzky.jpg
   featured: true
   social:
     - name: github
-      url: https://github.com
+      url: https://github.com/SoyCarlos/
     - name: twitter
-      url: https://github.com
-    - name: instagram
-      url: https://github.com
-    - name: dribbble
-      url: https://github.com
+      url: https://twitter.com/SoyCarlosEO/
     - name: linkedin
-      url: https://github.com
+      url: https://www.linkedin.com/in/soycarlos/
