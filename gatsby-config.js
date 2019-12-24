@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://blog.carlos.soy`,
     description: `I am Carlos E Ortega, an Undergraduate student studying Data Science.`,
     hero: {
-      heading: `Chaotic Neutral Data Science`,
+      heading: `Carlos Eduardo Ortega`,
       maxWidth: 652,
     },
     social: [
