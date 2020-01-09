@@ -1,7 +1,7 @@
 
 import React from "react";
 
-const WebIcon: Icon = ({ fill }) => (
+const WebIcon = ({ fill }) => (
     <svg
         width="24"
         height="20"
