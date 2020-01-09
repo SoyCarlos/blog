@@ -21,6 +21,10 @@ module.exports = {
         name: `linkedin`,
         url: `https://www.linkedin.com/in/soycarlos/`,
       },
+      {
+        name: `instagram`,
+        url: `https://instagram.com/imcarlos/`,
+      },
     ],
   },
   plugins: [
@@ -46,7 +50,7 @@ module.exports = {
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,
-        icon: `src/assets/favicon.png`,
+        icon: `src/assets/.png`,
       },
     },
   ],
