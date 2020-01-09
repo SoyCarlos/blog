@@ -4,7 +4,7 @@ const WebIcon = ({ fill = "#08080B", ...props }) => (
   <svg
     width="32"
     height="28"
-    viewBox="0 0 56.261 63.502"
+    viewBox="0 0 496 512"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
     {...props}
