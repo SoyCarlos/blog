@@ -2,8 +2,8 @@ import React from "react";
 
 const WebIcon = ({ fill = "#08080B", ...props }) => (
   <svg
-    width="50"
-    height="18"
+    width="70"
+    height="24"
     viewBox="0 0 1047.91 357.53"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
