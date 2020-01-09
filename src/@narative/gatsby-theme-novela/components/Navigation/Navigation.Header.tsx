@@ -82,6 +82,9 @@ const SharePageButton: React.FC<{}> = () => {
     );
 };
 
+const AboutMe = styled.a`
+`;
+
 const NavigationHeader: React.FC<{}> = () => {
     const [showBackArrow, setShowBackArrow] = useState<boolean>(false);
     const [previousPath, setPreviousPath] = useState<string>("/");
