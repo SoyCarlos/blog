@@ -138,7 +138,7 @@ const NavigationHeader: React.FC<{}> = () => {
                         </button>
                     ) : (
                             <>
-                                <AboutMe href="https://carlos.soy" rel="noopener noreferrer" title="About Me"><WebIcon fill={fill} /></AboutMe>
+                                <AboutMe href="https://carlos.soy" target="_blank" rel="noopener noreferrer" title="About Me"><WebIcon fill={fill} /></AboutMe>
                                 <SharePageButton />
                                 <DarkModeToggle />
                             </>
