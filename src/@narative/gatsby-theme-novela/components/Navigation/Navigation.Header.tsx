@@ -82,9 +82,6 @@ const SharePageButton: React.FC<{}> = () => {
     );
 };
 
-const AboutMe = styled.a`
-`;
-
 const NavigationHeader: React.FC<{}> = () => {
     const [showBackArrow, setShowBackArrow] = useState<boolean>(false);
     const [previousPath, setPreviousPath] = useState<string>("/");
@@ -150,6 +147,9 @@ const NavigationHeader: React.FC<{}> = () => {
 };
 
 export default NavigationHeader;
+
+const AboutMe = styled.a`
+`;
 
 const BackArrowIconContainer = styled.div`
   transition: 0.2s transform var(--ease-out-quad);
