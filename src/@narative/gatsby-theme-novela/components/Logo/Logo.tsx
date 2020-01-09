@@ -5,8 +5,8 @@ import React from 'react';
  * Make sure you have a height set for your logo.
  * It is recommended to keep the height within 25-35px.
  */
-export default function Logo() {
-    return (
+const Logo = ({ fill = "#fff" }: { fill?: string }) => {
+	return (
 <svg 
 	 viewBox="0 0 1075.49 691.99" height="50px">
 <g>
@@ -56,4 +56,6 @@ export default function Logo() {
 </g>
 </svg>
     );
-}
+};
+
+export default Logo;
