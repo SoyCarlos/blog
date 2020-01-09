@@ -7,6 +7,7 @@ import Section from "@components/Section";
 import Logo from "@components/Logo";
 
 import Icons from "@icons";
+import WebIcon from "./custom/WebIcon";
 import mediaqueries from "@styles/media";
 import {
     copyToClipboard,
@@ -134,6 +135,7 @@ const NavigationHeader: React.FC<{}> = () => {
                         </button>
                     ) : (
                             <>
+                                <AboutMe href="https://carlos.soy" rel="noopener noreferrer" title="About Me"><WebIcon fill={fill} /></AboutMe>
                                 <SharePageButton />
                                 <DarkModeToggle />
                             </>
