@@ -1,6 +1,6 @@
 - name: Carlos E Ortega
   bio: |
-    Undergraduate student with a passion for Chaotic Neutral Data Science. To learn more about me, check my site <a href="https://carlos.soy">here.</a>
+    Undergraduate student with a passion for Chaotic Neutral Data Science. To learn more about me, check my sites below!
   avatar: ./avatars/carlos-ortega.png
   featured: true
   social:
@@ -12,3 +12,5 @@
       url: https://www.linkedin.com/in/soycarlos/
     - name: instagram
       url: https://instagram.com/imcarlos/
+    - name: globe
+      url: https://carlos.soy
